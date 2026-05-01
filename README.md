@@ -34,6 +34,7 @@ Hi! I'm **Satwik**, a college student diving deep into **Data Science** from
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge\&logo=openai\&logoColor=white)
 
+---
 
 ## 🎯 Goals
 
@@ -47,7 +48,7 @@ Hi! I'm **Satwik**, a college student diving deep into **Data Science** from
 ## 🔗 Connect With Me
 
 📢 I share weekly updates, insights, and reflections on my journey.
-👉 Stay tuned and grow with me!
+👉 [LinkedIn Profile](https://www.linkedin.com/in/konala-satwik-kumar-reddy-b85483319)
 
 ---
 
