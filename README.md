@@ -1,7 +1,7 @@
 # 🚀 Data Science Journey — Satwik
 
 Hi! I'm **Satwik**, a college student diving deep into **Data Science** from
-📅 **April 25, 2026 → May 30, 2027** *(with short exam breaks in between)*
+📅 **October 25, 2025 → May 30, 2027** *(with short exam breaks in between)*
 
 ---
 
